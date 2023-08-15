@@ -1,13 +1,17 @@
-# self-navigating-drone
+# Frontier-based exploration
 
 ## Objective
 
-To devlop an algorithm to carry out autonomous exploration of an unknown indoor environment.
+To carry out autonomous frontier-based exploration of an unknown indoor environment.
 
-## Turtlebot Implementations
+Frontiers refers to the points on the boundary between
+open space and unexplored space. By moving to new frontiers, a mobile robot can extend its map into unknown territory
+until the entire environment has been explored.
 
-### Gmapping 
-2D mapping using lidar in gazebo.
+## Turtlebot3 Implementations 
 
-![image](https://user-images.githubusercontent.com/108993449/230111079-1eed020e-7dfe-4ead-aba6-bd039d908753.png)
+#### Nodes used
+1. Move_base
+2. Gmapping
+3. Explore_lite
 
