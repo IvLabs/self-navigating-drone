@@ -10,7 +10,9 @@ until the entire environment has been explored.
 
 ## Turtlebot3 Implementations 
 
-#### Nodes used
+Preliminary results are obtained using Explore_lite node of ROS.
+
+#### Nodes used for simulation
 1. Move_base
 2. Gmapping
 3. Explore_lite
