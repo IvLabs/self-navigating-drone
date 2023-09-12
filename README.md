@@ -15,5 +15,10 @@ Preliminary results are obtained using Explore_lite node of ROS.
 #### Nodes used for simulation
 1. Move_base
 2. Gmapping
-3. Explore_lite
+3. Explore_Lite
+
+![ezgif com-video-to-gif (3)](https://github.com/mayanklonkar/Frontier-based-exploration/assets/108993449/748d3e5f-0d59-495a-817c-bb19bdc58c1f)
+
+
+
 
