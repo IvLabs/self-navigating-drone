@@ -17,6 +17,18 @@ Preliminary results are obtained using Explore_lite node of ROS.
 2. Gmapping
 3. Explore_Lite
 
+To run this simulation 
+
+Start Gazebo simulator and spawn Turtlebot 3
+
+
+` export TURTLEBOT3_MODEL=waffle` 
+
+
+`roslaunch turtlebot3_gazebo turtlebot3_world.launch`
+
+
+
 ![ezgif com-video-to-gif (3)](https://github.com/mayanklonkar/Frontier-based-exploration/assets/108993449/748d3e5f-0d59-495a-817c-bb19bdc58c1f)
 
 
